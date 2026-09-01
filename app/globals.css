@@ -1,0 +1,2 @@
+@import "tailwindcss";
+:root{--navy:#071a3d;--blue:#0d6efd;--gold:#d9a441;--bg:#f5f7fb;--ink:#13213c}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,"Tahoma",sans-serif}button,input,select{font:inherit}.rtl{direction:rtl}.sidebar{background:linear-gradient(180deg,#071a3d,#0b2a60);color:white}.glass{background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border:1px solid #e5eaf2;box-shadow:0 8px 30px rgba(7,26,61,.06)}.gold{color:var(--gold)}
